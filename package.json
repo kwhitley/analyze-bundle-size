@@ -14,10 +14,13 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
+    "filesize": "^6.1.0",
     "fs-extra": "^8.1.0",
     "globby": "^11.0.0",
     "gzip-size": "^5.1.1",
-    "node-cmd": "^3.0.0"
+    "node-cmd": "^3.0.0",
+    "pluralize": "^8.0.0",
+    "strip-color": "^0.1.0"
   },
   "devDependencies": {
     "bundlesize": "^0.18.0",
